@@ -1,6 +1,6 @@
 # Topicos Especiais 
 
-Link dos Repositórios dos Projetos de TCC do curso de Técnico em Informática do ano de 2023:
+Link dos Repositórios dos Projetos de TCC do curso de Técnico em Informática do ano de 2023
 
 https://github.com/meneeses/AppTourism
 https://github.com/devcarlosgrochocki/TCC-Aplicacao-Web-Turismo-Pinhais
